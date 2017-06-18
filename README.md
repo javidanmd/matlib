@@ -14,6 +14,7 @@ mapminmax processes matrices by normalizing the minimum and maximum values of ea
 [y, ps] = matlib.mapminmax(x) # default ymin=-1.0, ymax=+1.0
 [y, ps] = matlib.mapminmax(x, ymin, ymax)
 
+---
 I will implement more functions.
 Follow my twitter for further news about this library:
 https://twitter.com/javidanmd
